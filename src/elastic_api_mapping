@@ -1,0 +1,19 @@
+{
+    "properties": {
+        "wheelsAndTyres$mTyreTemp$FL": {
+            "type": "integer"
+        },
+        {
+        "wheelsAndTyres$mTyreTemp$FR": {
+            "type": "integer"
+        },
+        {
+        "wheelsAndTyres$mTyreTemp$RL": {
+            "type": "integer"
+        },
+        {
+        "wheelsAndTyres$mTyreTemp$RR": {
+            "type": "integer"
+        },
+    }
+}

@@ -1,0 +1,4 @@
+src/parse.py
+src/__pycache__/
+bin/CREST-1.0.2/
+.vscode/
